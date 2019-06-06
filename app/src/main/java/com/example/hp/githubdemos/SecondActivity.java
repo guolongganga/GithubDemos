@@ -22,6 +22,14 @@ public class SecondActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(SecondActivity.this,"这是第二个activity",Toast.LENGTH_LONG).show();
+                ////
+                //
+                //////
+                //提交
+                Toast.makeText(SecondActivity.this,"这是第二个activity",Toast.LENGTH_LONG).show();
+
+
+
             }
         });
     }
