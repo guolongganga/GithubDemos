@@ -27,6 +27,8 @@ public class SecondActivity extends AppCompatActivity {
                 //////
                 //提交
                 Toast.makeText(SecondActivity.this,"这是第二个activity",Toast.LENGTH_LONG).show();
+                ////////
+
 
 
 
